@@ -16,23 +16,24 @@ Amazon, Trendyol, Hepsiburada tarzında **modern UI/UX** ile tasarlandı.
 - **📌 Footer Navbar:** Ana Sayfa, Sepet ve Hesabım arasında hızlı geçiş.  
 - **🎨 Modern UI/UX:** Amazon, Trendyol ve Hepsiburada tarzında profesyonel tasarım.
 
-Login Ekranı:  
+---
+
+## 📸 Ekran Görüntüleri
+
+**Login Ekranı**  
 ![Login](assets/screenshots/login.png)
 
-Register Ekranı:  
+**Register Ekranı**  
 ![Register](assets/screenshots/register.png)
 
-Home Ekranı:  
+**Home Ekranı**  
 ![Home](assets/screenshots/home.png)
 
-Ürün Ekranı:  
+**Ürün Ekranı**  
 ![Product](assets/screenshots/productpage.png)
 
-Sepet Ekranı:  
+**Sepet Ekranı**  
 ![Cart](assets/screenshots/cart.png)
 
-Hesabım Ekranı:  
+**Hesabım Ekranı**  
 ![Account](assets/screenshots/account.png)
-
-
-
