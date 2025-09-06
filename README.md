@@ -1,6 +1,6 @@
 # 🚀 E-Commerce App - DGKNakkus
 
-Flutter **3.32.8** + Dart **3.8.1** ile geliştirilmiş bir **senior level e-commerce demo uygulaması**.  
+Flutter **3.32.8** + Dart **3.8.1** ile geliştirilmiştir.  
 Amazon, Trendyol, Hepsiburada tarzında **modern UI/UX** ile tasarlandı.  
 
 ---
