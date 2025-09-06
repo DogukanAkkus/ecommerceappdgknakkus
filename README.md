@@ -23,29 +23,29 @@ Amazon, Trendyol, Hepsiburada tarzında **modern UI/UX** ile tasarlandı.
 <table>
   <tr>
     <td align="center">
-      <img src="ecommerceapp_dgknakkus/assets/screenshots/login.png" width="200px" />
+      <img src="ecommerceapp_dgknakkus/assets/screenshoots/login.png" width="200px" />
       <br>Login
     </td>
     <td align="center">
-      <img src="ecommerceapp_dgknakkus/assets/screenshots/register.png" width="200px" />
+      <img src="ecommerceapp_dgknakkus/assets/screenshoots/register.png" width="200px" />
       <br>Register
     </td>
     <td align="center">
-      <img src="ecommerceapp_dgknakkus/assets/screenshots/home.png" width="200px" />
+      <img src="ecommerceapp_dgknakkus/assets/screenshoots/home.png" width="200px" />
       <br>Home
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="ecommerceapp_dgknakkus/assets/screenshots/productpage.png" width="200px" />
+      <img src="ecommerceapp_dgknakkus/assets/screenshoots/productpage.png" width="200px" />
       <br>Product
     </td>
     <td align="center">
-      <img src="ecommerceapp_dgknakkus/assets/screenshots/cart.png" width="200px" />
+      <img src="ecommerceapp_dgknakkus/assets/screenshoots/cart.png" width="200px" />
       <br>Cart
     </td>
     <td align="center">
-      <img src="ecommerceapp_dgknakkus/assets/screenshots/account.png" width="200px" />
+      <img src="ecommerceapp_dgknakkus/assets/screenshoots/account.png" width="200px" />
       <br>Account
     </td>
   </tr>
