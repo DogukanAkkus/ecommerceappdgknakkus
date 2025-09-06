@@ -6,7 +6,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Riverpod](https://img.shields.io/badge/Riverpod-StateManagement-purple?logo=flutter&logoColor=white)](https://riverpod.dev/)
 
-Flutter **3.32.8** + Dart **3.8.1** ile geliştirilmiş bir **senior level e-commerce demo uygulaması**.  
+Flutter **3.32.8** + Dart **3.8.1** ile geliştirilmiştir.  
 Amazon, Trendyol, Hepsiburada tarzında **modern UI/UX** ile tasarlandı.  
 
 ---
@@ -68,14 +68,6 @@ Amazon, Trendyol, Hepsiburada tarzında **modern UI/UX** ile tasarlandı.
 - **Design:** Modern UI/UX, Responsive Layout, GridView, Footer Navbar  
 
 ---
-
-## 📺 Live Demo / Video
-
-> Opsiyonel: Eğer bir video veya web demo linkin varsa buraya ekleyebilirsin.  
-> Örnek: [Demo Video](https://www.youtube.com/...)
-
----
-
 ## 📌 Kurulum
 
 ```bash
