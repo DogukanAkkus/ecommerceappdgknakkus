@@ -20,20 +20,20 @@ Amazon, Trendyol, Hepsiburada tarzında **modern UI/UX** ile tasarlandı.
 
 ## 📸 Ekran Görüntüleri
 
-**Login Ekranı**  
-![Login](assets/screenshots/login.png)
+Login Ekranı:  
+![Login](assets/screenshoots/login.png)
 
-**Register Ekranı**  
-![Register](assets/screenshots/register.png)
+Register Ekranı:  
+![Register](assets/screenshoots/register.png)
 
-**Home Ekranı**  
-![Home](assets/screenshots/home.png)
+Home Ekranı:  
+![Home](assets/screenshoots/home.png)
 
-**Ürün Ekranı**  
-![Product](assets/screenshots/productpage.png)
+Ürün Ekranı:  
+![Product](assets/screenshoots/productpage.png)
 
-**Sepet Ekranı**  
-![Cart](assets/screenshots/cart.png)
+Sepet Ekranı:  
+![Cart](assets/screenshoots/cart.png)
 
-**Hesabım Ekranı**  
-![Account](assets/screenshots/account.png)
+Hesabım Ekranı:  
+![Account](assets/screenshoots/account.png)
