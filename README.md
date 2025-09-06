@@ -20,20 +20,33 @@ Amazon, Trendyol, Hepsiburada tarzında **modern UI/UX** ile tasarlandı.
 
 ## 📸 Ekran Görüntüleri
 
-Login Ekranı:  
-![Login](ecommerceapp_dgknakkus/assets/screenshoots/login.png)
-
-Register Ekranı:  
-![Register](ecommerceapp_dgknakkus/assets/screenshoots/register.png)
-
-Home Ekranı:  
-![Home](ecommerceapp_dgknakkus/assets/screenshoots/home.png)
-
-Ürün Ekranı:  
-![Product](ecommerceapp_dgknakkus/assets/screenshoots/productpage.png)
-
-Sepet Ekranı:  
-![Cart](ecommerceapp_dgknakkus/assets/screenshoots/cart.png)
-
-Hesabım Ekranı:  
-![Account](ecommerceapp_dgknakkus/assets/screenshoots/account.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="ecommerceapp_dgknakkus/assets/screenshots/login.png" width="200px" />
+      <br>Login
+    </td>
+    <td align="center">
+      <img src="ecommerceapp_dgknakkus/assets/screenshots/register.png" width="200px" />
+      <br>Register
+    </td>
+    <td align="center">
+      <img src="ecommerceapp_dgknakkus/assets/screenshots/home.png" width="200px" />
+      <br>Home
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="ecommerceapp_dgknakkus/assets/screenshots/productpage.png" width="200px" />
+      <br>Product
+    </td>
+    <td align="center">
+      <img src="ecommerceapp_dgknakkus/assets/screenshots/cart.png" width="200px" />
+      <br>Cart
+    </td>
+    <td align="center">
+      <img src="ecommerceapp_dgknakkus/assets/screenshots/account.png" width="200px" />
+      <br>Account
+    </td>
+  </tr>
+</table>
