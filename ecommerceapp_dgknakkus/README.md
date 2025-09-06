@@ -23,29 +23,29 @@ Amazon, Trendyol, Hepsiburada tarzında **modern UI/UX** ile tasarlandı.
 <table>
   <tr>
     <td align="center">
-      <img src="/assets/screenshoots/login.png" width="200px" />
+      <img src="assets/screenshoots/login.png" width="200px" />
       <br>Login
     </td>
     <td align="center">
-      <img src="/assets/screenshoots/register.png" width="200px" />
+      <img src="assets/screenshoots/register.png" width="200px" />
       <br>Register
     </td>
     <td align="center">
-      <img src="/assets/screenshoots/home.png" width="200px" />
+      <img src="assets/screenshoots/home.png" width="200px" />
       <br>Home
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="/assets/screenshoots/productpage.png" width="200px" />
+      <img src="assets/screenshoots/productpage.png" width="200px" />
       <br>Product
     </td>
     <td align="center">
-      <img src="/assets/screenshoots/cart.png" width="200px" />
+      <img src="assets/screenshoots/cart.png" width="200px" />
       <br>Cart
     </td>
     <td align="center">
-      <img src="/assets/screenshoots/account.png" width="200px" />
+      <img src="assets/screenshoots/account.png" width="200px" />
       <br>Account
     </td>
   </tr>
