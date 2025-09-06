@@ -16,3 +16,23 @@ Bu proje, global e-ticaret platformu mantığında tasarlanmıştır ve Amazon, 
 - **Footer Navbar:** Ana Sayfa, Sepet ve Hesabım arasında hızlı geçiş.
 - **Modern UI/UX:** Amazon, Trendyol ve Hepsiburada tarzında profesyonel tasarım.
 
+
+## 📸 Ekran Görüntüleri
+
+Login Ekranı:  
+![Login](assets/screenshoots/login.png)
+
+Register Ekranı:  
+![Register](assets/screenshoots/register.png)
+
+Home Ekranı:  
+![Home](assets/screenshoots/home.png)
+
+Ürün Ekranı:  
+![Product](assets/screenshoots/productpage.png)
+
+Sepet Ekranı:  
+![Cart](assets/screenshoots/cart.png)
+
+Hesabım Ekranı:  
+![Account](assets/screenshoots/account.png)
